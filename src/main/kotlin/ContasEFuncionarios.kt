@@ -1,0 +1,5 @@
+val contaBia = ContaPoupanca("Bia", 1000)
+val bia = AnalistaRH(nome = "Bia", cpf = "222.222.222-22", contaBia, 27, 3500.0)
+val contaIvan = ContaCorrente("Ivan", 3000)
+val ivan = Diretor("Ivan", "444.444.444-44", contaIvan, "uuuu", 43, 15000.0)
+val contaXuxu = ContaCorrente("Xuxu", 1001)
